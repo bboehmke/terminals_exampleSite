@@ -23,7 +23,7 @@ main content</description>
       <pubDate>Sat, 31 Oct 2020 17:00:00 +0200</pubDate>
       
       <guid>https://example.com/post/manual/</guid>
-      <description>&lt;p&gt;some summary content with markdown&lt;/p&gt;</description>
+      <description>&lt;p&gt;some summary content &lt;strong&gt;with&lt;/strong&gt; markdown&lt;/p&gt;</description>
     </item>
     
     <item>
